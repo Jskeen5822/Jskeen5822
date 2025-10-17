@@ -2,7 +2,7 @@
   Welcome to Jonathon Skeen’s GitHub Profile!
 -->
 
-<h1 align="center">Hey there 👋, I'm Jonathon Skeen</h1>
+<h1 align="center">Hey 👋, I'm Jonathon Skeen</h1>
 <h3 align="center">Computer Science Student @ Ohio University</h3>
 
 ---
@@ -45,9 +45,6 @@
   </a>
   <a href="https://app.joinhandshake.com/profiles/mxjt9g">
     <img src="https://img.shields.io/badge/Handshake-2C2C2C?style=for-the-badge&logo=handshake&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jskeen5822">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
