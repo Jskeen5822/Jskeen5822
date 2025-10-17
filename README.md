@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,arduino,raspberrypi,git,docker,github,linux,vscode,bash,bootstrap,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,arduino,raspberrypi,git,docker,github,linux,vscode,bash" />
 </p>
 
 ---
