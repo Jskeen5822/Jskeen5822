@@ -54,7 +54,7 @@
 
 - **Brew Bot (AI Bartender)** — Hardware + software automation project for drink mixing  
 - **Memory Manager** — A C++ project simulating dynamic memory allocation  
-- **Personal Website** — A responsive portfolio built with HTML, CSS, and React  
+- **SQL and Aggregate Databases** — A Python script that will fetch the data from all the repositories and store it in sql database, and has to compute aggregates with database tables that has to be under 15 minutes. 
 
 ---
 
