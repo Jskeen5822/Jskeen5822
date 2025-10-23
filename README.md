@@ -2,7 +2,7 @@
   Welcome to Jonathon Skeen’s GitHub Profile!
 -->
 
-<h1 align="center">Hey 👋, I'm Jonathon Skeen</h1>
+<h1 align="center">👋 I'm Jonathon Skeen</h1>
 <h3 align="center">Computer Science Student @ Ohio University</h3>
 
 ---
