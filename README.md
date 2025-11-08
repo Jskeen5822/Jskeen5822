@@ -52,9 +52,9 @@
 
 ### 🧩 Featured Projects  
 
-- **Brew Bot (AI Bartender)** — Hardware + software automation project for drink mixing  
-- **Memory Manager** — A C++ project simulating dynamic memory allocation  
-- **SQL and Aggregate Databases** — A Python script that will fetch the data from all the repositories and store it in sql database, and has to compute aggregates with database tables that has to be under 15 minutes. 
+- **Brew Bot (AI Bartender)** — Hardware + software automation project for intelligent drink mixing  
+- **Brainrot Art** — Generative art experience built around viral culture and creative coding  
+- **Blackhole** — Interactive simulation that visualizes gravity wells and orbital mechanics  
 
 ---
 
