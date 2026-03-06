@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-🎓 CS student | 💻 C++ & Python enthusiast  
+🎓 CS student  
 ⚙️ Building cool projects with dynamic memory & databases  
 🔬 Interested in embedded systems and operating systems   
 📂 Check out my latest work below!  
