@@ -9,14 +9,12 @@
 
 ### 🌟 About Me  
 🎓 CS student | 💻 C++ & Python enthusiast  
-⚙️ Building cool projects with dynamic memory & data structures  
-🔬 Interested in embedded systems and computer engineering  
-🌟 Always learning, always improving  
+⚙️ Building cool projects with dynamic memory & databases  
+🔬 Interested in embedded systems and operating systems   
 📂 Check out my latest work below!  
 
-- 🔭 **Current Project:** Brew Bot — an AI bartender that mixes drinks intelligently  
-- 📚 **Learning:** Data structures in C++, HTML/CSS, and web-based code editors  
-- 🤝 **Open to Collaborate On:** Frontend web projects  
+- 🔭 **Current Project:** Skevia OS - an all-around operating system with features from Qubes, Mac, and Ubuntu  
+- 📚 **Learning:** Databases and Embedded Systems 
 - 📧 **Reach me at:** [jonathoncskeen@gmail.com](mailto:jonathoncskeen@gmail.com)  
 
 ---
