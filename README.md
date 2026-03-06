@@ -57,8 +57,3 @@
 - **Blackhole** — Interactive simulation that visualizes gravity wells and orbital mechanics  
 
 ---
-
-<p align="center">
-  Thanks for visiting my profile! ✨  
-  Let’s build something awesome together 🚀
-</p>
