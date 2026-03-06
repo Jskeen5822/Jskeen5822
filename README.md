@@ -1,57 +1,78 @@
 <!--
-  Welcome to Jonathon Skeen’s GitHub Profile!
+  Dark Space Theme Profile README for Jonathon Skeen
 -->
 
-<h1 align="center">👋 I'm Jonathon Skeen</h1>
-<h3 align="center">Computer Science Student @ Ohio University</h3>
-
----
-
-### 🌟 About Me  
-🎓 CS student  
-⚙️ Building cool projects with dynamic memory & databases  
-🔬 Interested in embedded systems and operating systems   
-📂 Check out my latest work below!  
-
-- 🔭 **Current Project:** Skevia OS - an all-around operating system with features from Qubes, Mac, and Ubuntu  
-- 📚 **Learning:** Databases and Embedded Systems 
-- 📧 **Reach me at:** [jonathoncskeen@gmail.com](mailto:jonathoncskeen@gmail.com)  
-
----
-
-### 🧰 Skills & Tools  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0f172a,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20Ohio%20University&descAlignY=58&descSize=16&animation=twinkling" />
+</p>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws" />
+  <img src="https://img.shields.io/badge/Mission-Systems%20Builder-0b1120?style=for-the-badge&logo=github&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20OS%20%7C%20Databases-111827?style=for-the-badge&logo=gnometerminal&logoColor=67e8f9" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Mode-1e1b4b?style=for-the-badge&logo=rocket&logoColor=c4b5fd" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=920&height=52&lines=Building+Skevia+OS+Among+the+Stars;Embedded+Systems+%7C+Operating+Systems+%7C+Databases;Turning+Ideas+Into+Working+Code+and+Hardware" alt="Animated typing intro" />
 </p>
 
 ---
 
+## 🌌 Mission Brief
 
+I am a computer science student exploring low-level systems, hardware-software integration, and scalable backend foundations.
+
+- 🎓 Studying Computer Science at Ohio University
+- ⚙️ Building projects with dynamic memory, databases, and automation
+- 🔬 Deep interest in embedded systems and operating systems
+- 📂 Actively shipping experimental and simulation-focused builds
 
 ---
 
-### 🌐 Connect With Me  
+## 🛰️ Current Trajectory
+
+- 🔭 **Current Project:** **Skevia OS**  
+  A unified operating system concept inspired by Qubes, macOS, and Ubuntu.
+- 📚 **Learning:** Databases and Embedded Systems
+- 📧 **Reach me at:** [jonathoncskeen@gmail.com](mailto:jonathoncskeen@gmail.com)
+
+---
+
+## 🧰 Tech Constellation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws&theme=dark" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+- **Brew Bot (AI Bartender)**  
+  Hardware + software automation project for intelligent drink mixing.
+- **Brainrot Art**  
+  Generative art experience centered on viral culture and creative coding.
+- **Blackhole**  
+  Interactive simulation for gravity wells and orbital mechanics.
+
+---
+
+## 🌐 Docking Channels
 
 <p align="center">
   <a href="mailto:jonathoncskeen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=93c5fd" />
   </a>
   <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
   </a>
   <a href="https://app.joinhandshake.com/profiles/mxjt9g">
-    <img src="https://img.shields.io/badge/Handshake-2C2C2C?style=for-the-badge&logo=handshake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Handshake-111827?style=for-the-badge&logo=handshake&logoColor=cbd5e1" />
   </a>
 </p>
 
 ---
 
-### 🧩 Featured Projects  
-
-- **Brew Bot (AI Bartender)** — Hardware + software automation project for intelligent drink mixing  
-- **Brainrot Art** — Generative art experience built around viral culture and creative coding  
-- **Blackhole** — Interactive simulation that visualizes gravity wells and orbital mechanics  
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:1e293b&animation=twinkling" />
+</p>
