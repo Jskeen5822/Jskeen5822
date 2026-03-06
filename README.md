@@ -23,7 +23,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,arduino,raspberrypi,git,docker,github,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws" />
 </p>
 
 ---
