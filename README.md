@@ -3,46 +3,42 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0f172a,100:1e293b&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0f172a,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20Ohio%20University&descAlignY=58&descSize=16&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=96&width=920&color=0:0b1220,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=52&font=Knewave" alt="Jonathon Skeen title" />
+  <img src="https://img.shields.io/badge/Mission-Systems%20Builder-0b1120?style=for-the-badge&logo=github&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20OS%20%7C%20Databases-111827?style=for-the-badge&logo=gnometerminal&logoColor=67e8f9" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Mode-1e1b4b?style=for-the-badge&logo=rocket&logoColor=c4b5fd" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&width=920&color=0:111827,100:0f172a&text=Embedded%20Systems%20%7C%20Operating%20Systems%20%7C%20Databases&fontColor=93c5fd&fontSize=20&font=Knewave" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=920&height=52&lines=Building+Skevia+OS+Among+the+Stars;Embedded+Systems+%7C+Operating+Systems+%7C+Databases;Turning+Ideas+Into+Working+Code+and+Hardware" alt="Animated typing intro" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Mission%20Brief&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Mission Brief heading" />
-</p>
+## 🌌 Mission Brief
 
 I am a computer science student exploring low-level systems, hardware-software integration, and scalable backend foundations.
 
-- Studying Computer Science at Ohio University
-- Building projects with dynamic memory, databases, and automation
-- Deep interest in embedded systems and operating systems
-- Actively shipping experimental and simulation-focused builds
+- 🎓 Studying Computer Science at Ohio University
+- ⚙️ Building projects with dynamic memory, databases, and automation
+- 🔬 Deep interest in embedded systems and operating systems
+- 📂 Actively shipping experimental and simulation-focused builds
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Current%20Trajectory&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Current Trajectory heading" />
-</p>
+## 🛰️ Current Trajectory
 
-- **Current Project:** **Skevia OS**  
+- 🔭 **Current Project:** **Skevia OS**  
   A unified operating system concept inspired by Qubes, macOS, and Ubuntu.
-- **Learning:** Databases and Embedded Systems
-- **Reach me at:** [jonathoncskeen@gmail.com](mailto:jonathoncskeen@gmail.com)
+- 📚 **Learning:** Databases and Embedded Systems
+- 📧 **Reach me at:** [jonathoncskeen@gmail.com](mailto:jonathoncskeen@gmail.com)
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Tech%20Constellation&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Tech Constellation heading" />
-</p>
+## 🧰 Tech Constellation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws&theme=dark" />
@@ -50,9 +46,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Featured%20Projects&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Featured Projects heading" />
-</p>
+## 🧩 Featured Projects
 
 - **Brew Bot (AI Bartender)**  
   Hardware + software automation project for intelligent drink mixing.
@@ -63,9 +57,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Docking%20Channels&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Docking Channels heading" />
-</p>
+## 🌐 Docking Channels
 
 <p align="center">
   <a href="mailto:jonathoncskeen@gmail.com">
