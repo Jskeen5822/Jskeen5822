@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>README Preview</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Orbitron:wght@500;700&family=Space+Grotesk:wght@400;500;700&display=swap');
+
+    :root {
+      color-scheme: dark;
+      --bg: #030712;
+      --panel: #0b1220;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --border: #1f2937;
+      --link: #7dd3fc;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", sans-serif;
+      background: radial-gradient(circle at 20% 10%, #0f172a 0%, var(--bg) 45%, #020617 100%);
+      color: var(--text);
+      line-height: 1.6;
+      animation: backdropShift 12s ease-in-out infinite alternate;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 40px auto;
+      padding: 28px;
+      background: color-mix(in srgb, var(--panel) 84%, black);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      box-shadow: 0 18px 45px rgba(0,0,0,.45);
+      position: relative;
+      overflow: hidden;
+      animation: panelIn 0.9s ease-out both;
+    }
+    .wrap::before {
+      content: "";
+      position: absolute;
+      inset: -30% auto auto -20%;
+      width: 70%;
+      height: 70%;
+      background: radial-gradient(circle, rgba(103,232,249,.12), transparent 62%);
+      filter: blur(2px);
+      animation: nebulaFloat 10s ease-in-out infinite;
+      pointer-events: none;
+    }
+    a {
+      color: var(--link);
+      transition: color .2s ease, text-shadow .2s ease;
+    }
+    a:hover {
+      color: #bae6fd;
+      text-shadow: 0 0 12px rgba(125, 211, 252, .5);
+    }
+    img { max-width: 100%; }
+    p[align="center"] img {
+      animation: mediaRise .8s ease-out both;
+      transition: transform .25s ease, filter .25s ease;
+    }
+    p[align="center"] img:hover {
+      transform: translateY(-4px) scale(1.01);
+      filter: brightness(1.08);
+    }
+    hr {
+      border: none;
+      height: 1px;
+      margin: 24px 0;
+      background: linear-gradient(90deg, transparent, #334155, transparent);
+      animation: hrSweep 5s linear infinite;
+    }
+    h1,h2,h3 { line-height: 1.25; }
+    h1, h2 {
+      font-family: "Orbitron", sans-serif;
+      letter-spacing: .04em;
+      animation: sectionSlide .55s ease-out both;
+    }
+    h3 {
+      font-family: "JetBrains Mono", monospace;
+      letter-spacing: .02em;
+    }
+    li {
+      animation: listReveal .45s ease both;
+    }
+    li:nth-child(1) { animation-delay: .04s; }
+    li:nth-child(2) { animation-delay: .09s; }
+    li:nth-child(3) { animation-delay: .14s; }
+    li:nth-child(4) { animation-delay: .19s; }
+    li:nth-child(5) { animation-delay: .24s; }
+    code, pre {
+      background: #111827;
+      border-radius: 6px;
+      font-family: "JetBrains Mono", monospace;
+    }
+    code { padding: 2px 6px; }
+    pre { padding: 12px; overflow: auto; }
+    blockquote { border-left: 3px solid #334155; margin: 0; padding: 0 0 0 12px; color: var(--muted); }
+
+    @keyframes panelIn {
+      from { opacity: 0; transform: translateY(16px) scale(.99); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+    @keyframes sectionSlide {
+      from { opacity: 0; transform: translateX(-8px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes listReveal {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes mediaRise {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes nebulaFloat {
+      0% { transform: translate(0, 0); }
+      50% { transform: translate(20px, 14px); }
+      100% { transform: translate(-12px, 8px); }
+    }
+    @keyframes hrSweep {
+      0% { filter: hue-rotate(0deg); opacity: .7; }
+      50% { opacity: 1; }
+      100% { filter: hue-rotate(20deg); opacity: .7; }
+    }
+    @keyframes backdropShift {
+      from { background-position: 0% 0%; }
+      to { background-position: 8% 4%; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <!--
+  Dark Space Theme Profile README for Jonathon Skeen
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0f172a,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20Ohio%20University&descAlignY=58&descSize=16&animation=twinkling" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=920&height=52&lines=Building+Skevia+OS+Among+the+Stars;Embedded+Systems+%7C+Operating+Systems+%7C+Databases;Turning+Ideas+Into+Working+Code+and+Hardware" alt="Animated typing intro" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=93C5FD&center=true&vCenter=true&width=920&height=38&lines=Learning+in+public;Shipping+new+builds+regularly;Designing+Skevia+OS+modules" alt="Animated status line" />
+</p>
+<hr />
+<h2>Mission Brief</h2>
+<p>I am a computer science student exploring low-level systems, hardware-software integration, and scalable backend foundations.</p>
+<ul>
+<li>Studying Computer Science at Ohio University</li>
+<li>Building projects with dynamic memory, databases, and automation</li>
+<li>Deep interest in embedded systems and operating systems</li>
+<li>Actively shipping experimental and simulation-focused builds</li>
+</ul>
+<hr />
+<h2>Current Trajectory</h2>
+<ul>
+<li><strong>Current Project:</strong> <strong>Skevia OS</strong><br />
+A unified operating system concept inspired by Qubes, macOS, and Ubuntu.</li>
+<li><strong>Learning:</strong> Databases and Embedded Systems</li>
+<li><strong>Reach me at:</strong> <a href="mailto:jonathoncskeen@gmail.com">jonathoncskeen@gmail.com</a></li>
+</ul>
+<hr />
+<h2>Tech Constellation</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws&theme=dark" />
+</p>
+<hr />
+<h2>Featured Projects</h2>
+<ul>
+<li><strong>Brew Bot (AI Bartender)</strong><br />
+Hardware + software automation project for intelligent drink mixing.</li>
+<li><strong>Brainrot Art</strong><br />
+Generative art experience centered on viral culture and creative coding.</li>
+<li><strong>Blackhole</strong><br />
+Interactive simulation for gravity wells and orbital mechanics.</li>
+</ul>
+<hr />
+<h2>Docking Channels</h2>
+<p align="center">
+  <a href="mailto:jonathoncskeen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=93c5fd" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  </a>
+  <a href="https://app.joinhandshake.com/profiles/mxjt9g">
+    <img src="https://img.shields.io/badge/Handshake-111827?style=for-the-badge&logo=handshake&logoColor=cbd5e1" />
+  </a>
+</p>
+<hr />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:1e293b&animation=twinkling" />
+</p>
+
+  </main>
+</body>
+</html>
