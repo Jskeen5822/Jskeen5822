@@ -7,21 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&weight=700&size=48&duration=1600&pause=800&color=E2E8F0&center=true&vCenter=true&width=920&height=72&lines=JONATHON+SKEEN" alt="Jonathon Skeen title" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=96&width=920&color=0:0b1220,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=52&font=Knewave" alt="Jonathon Skeen title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=24&duration=2400&pause=900&color=67E8F9&center=true&vCenter=true&width=920&height=56&lines=Building+Skevia+OS+Among+the+Stars;Embedded+Systems+%7C+Operating+Systems+%7C+Databases;Turning+Ideas+Into+Working+Code+and+Hardware" alt="Animated typing intro" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=18&duration=2100&pause=700&color=93C5FD&center=true&vCenter=true&width=920&height=36&lines=Learning+in+public;Shipping+new+builds+regularly;Designing+Skevia+OS+modules" alt="Animated status line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&width=920&color=0:111827,100:0f172a&text=Embedded%20Systems%20%7C%20Operating%20Systems%20%7C%20Databases&fontColor=93c5fd&fontSize=20&font=Knewave" alt="Focus areas" />
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Mission+Brief" alt="Mission Brief heading" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Mission%20Brief&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Mission Brief heading" />
 </p>
 
 I am a computer science student exploring low-level systems, hardware-software integration, and scalable backend foundations.
@@ -34,7 +30,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Current+Trajectory" alt="Current Trajectory heading" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Current%20Trajectory&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Current Trajectory heading" />
 </p>
 
 - **Current Project:** **Skevia OS**  
@@ -45,7 +41,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Tech+Constellation" alt="Tech Constellation heading" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Tech%20Constellation&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Tech Constellation heading" />
 </p>
 
 <p align="center">
@@ -55,7 +51,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Featured+Projects" alt="Featured Projects heading" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Featured%20Projects&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Featured Projects heading" />
 </p>
 
 - **Brew Bot (AI Bartender)**  
@@ -68,28 +64,7 @@ I am a computer science student exploring low-level systems, hardware-software i
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Animation+Deck" alt="Animation Deck heading" />
-</p>
-
-<p align="center">
-  <img src="./assets/animation-deck.svg" alt="Ten animated motion demos for the profile README" />
-</p>
-
-1. Fade and slide section reveal
-2. Staggered list item entrances
-3. Lift and glow card motion
-4. Drifting gradient field
-5. Pulsing border and shadow ring
-6. Floating and rotating decorative shapes
-7. Scanning divider beam
-8. Typing text with cursor blink
-9. Wave and twinkle star field
-10. Looping SVG motion embed
-
----
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&duration=1700&pause=1200&color=BAE6FD&vCenter=true&width=460&height=52&lines=Docking+Channels" alt="Docking Channels heading" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=420&color=0:0b1220,100:1f2937&text=Docking%20Channels&fontColor=bae6fd&fontSize=30&font=Knewave" alt="Docking Channels heading" />
 </p>
 
 <p align="center">
