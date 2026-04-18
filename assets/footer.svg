@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 72" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="50%" stop-color="#111822"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="fglow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#34d399" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-400 0" to="400 0" dur="18s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="72" fill="url(#fbg)"/>
+  <rect x="0" y="34" width="1100" height="10" fill="url(#fglow)" opacity="0.9"/>
+  <path d="M0 12 Q 275 42 550 12 T 1100 12" fill="none" stroke="#1e293b" stroke-width="2" opacity="0.55">
+    <animate attributeName="d" values="M0 12 Q 275 42 550 12 T 1100 12;M0 18 Q 275 8 550 22 T 1100 18;M0 12 Q 275 42 550 12 T 1100 12" dur="10s" repeatCount="indefinite"/>
+  </path>
+</svg>

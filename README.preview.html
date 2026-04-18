@@ -8,17 +8,17 @@
     :root {
       color-scheme: dark;
       --bg: #030712;
-      --panel: #0b1220;
+      --panel: #0c1016;
       --text: #e5e7eb;
-      --muted: #9ca3af;
+      --muted: #94a3b8;
       --border: #1f2937;
-      --link: #7dd3fc;
+      --link: #38bdf8;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-      background: radial-gradient(circle at 20% 10%, #0f172a 0%, var(--bg) 45%, #020617 100%);
+      background: radial-gradient(circle at 20% 10%, #111822 0%, var(--bg) 45%, #020617 100%);
       color: var(--text);
       line-height: 1.6;
     }
@@ -26,7 +26,7 @@
       max-width: 980px;
       margin: 40px auto;
       padding: 28px;
-      background: color-mix(in srgb, var(--panel) 84%, black);
+      background: color-mix(in srgb, var(--panel) 92%, black);
       border: 1px solid var(--border);
       border-radius: 14px;
       box-shadow: 0 18px 45px rgba(0,0,0,.45);
@@ -34,79 +34,167 @@
     a { color: var(--link); }
     img { max-width: 100%; }
     hr { border: none; border-top: 1px solid var(--border); margin: 24px 0; }
-    h1,h2,h3 { line-height: 1.25; }
-    code, pre { background: #111827; border-radius: 6px; }
-    code { padding: 2px 6px; }
-    pre { padding: 12px; overflow: auto; }
-    blockquote { border-left: 3px solid #334155; margin: 0; padding: 0 0 0 12px; color: var(--muted); }
+    table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95rem; }
+    table.intro td { border: 1px solid var(--border); padding: 16px 12px; vertical-align: top; }
+    table.projects th, table.projects td { border: 1px solid var(--border); padding: 10px 12px; }
+    table.projects th { text-align: left; background: #111822; }
+    sub { color: var(--muted); font-size: 0.8rem; }
+    details { margin: 16px 0; padding: 12px 16px; border: 1px solid var(--border); border-radius: 10px; background: #0a0f14; }
+    summary { cursor: pointer; font-weight: 600; }
   </style>
 </head>
 <body>
   <main class="wrap">
-    <!--
-  Dark Space Theme Profile README for Jonathon Skeen
--->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0f172a,100:1e293b&text=JONATHON%20SKEEN&fontColor=e2e8f0&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20Ohio%20University&descAlignY=58&descSize=16&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Mission-Systems%20Builder-0b1120?style=for-the-badge&logo=github&logoColor=93c5fd" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20OS%20%7C%20Databases-111827?style=for-the-badge&logo=gnometerminal&logoColor=67e8f9" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Mode-1e1b4b?style=for-the-badge&logo=rocket&logoColor=c4b5fd" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=920&height=52&lines=Building+Skevia+OS+Among+the+Stars;Embedded+Systems+%7C+Operating+Systems+%7C+Databases;Turning+Ideas+Into+Working+Code+and+Hardware" alt="Animated typing intro" />
-</p>
-<hr />
-<h2>🌌 Mission Brief</h2>
-<p>I am a computer science student exploring low-level systems, hardware-software integration, and scalable backend foundations.</p>
-<ul>
-<li>🎓 Studying Computer Science at Ohio University</li>
-<li>⚙️ Building projects with dynamic memory, databases, and automation</li>
-<li>🔬 Deep interest in embedded systems and operating systems</li>
-<li>📂 Actively shipping experimental and simulation-focused builds</li>
-</ul>
-<hr />
-<h2>🛰️ Current Trajectory</h2>
-<ul>
-<li>🔭 <strong>Current Project:</strong> <strong>Skevia OS</strong><br />
-A unified operating system concept inspired by Qubes, macOS, and Ubuntu.</li>
-<li>📚 <strong>Learning:</strong> Databases and Embedded Systems</li>
-<li>📧 <strong>Reach me at:</strong> <a href="mailto:jonathoncskeen@gmail.com">jonathoncskeen@gmail.com</a></li>
-</ul>
-<hr />
-<h2>🧰 Tech Constellation</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,raspberrypi,git,docker,github,linux,vscode,aws&theme=dark" />
-</p>
-<hr />
-<h2>🧩 Featured Projects</h2>
-<ul>
-<li><strong>Brew Bot (AI Bartender)</strong><br />
-Hardware + software automation project for intelligent drink mixing.</li>
-<li><strong>Brainrot Art</strong><br />
-Generative art experience centered on viral culture and creative coding.</li>
-<li><strong>Blackhole</strong><br />
-Interactive simulation for gravity wells and orbital mechanics.</li>
-</ul>
-<hr />
-<h2>🌐 Docking Channels</h2>
-<p align="center">
-  <a href="mailto:jonathoncskeen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=93c5fd" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-  </a>
-  <a href="https://app.joinhandshake.com/profiles/mxjt9g">
-    <img src="https://img.shields.io/badge/Handshake-111827?style=for-the-badge&logo=handshake&logoColor=cbd5e1" />
-  </a>
-</p>
-<hr />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:1e293b&animation=twinkling" />
-</p>
+    <p align="center">
+      <img src="assets/banner.svg" alt="Jonathon Skeen — CS @ Ohio University, Marietta OH, low-level systems" width="100%" />
+    </p>
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=52D4A8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=Shipping+firmware-minded+software.;Skevia+OS+%E2%80%94+isolation%2C+ergonomics%2C+one+kernel+at+a+time.;Embedded+%C2%B7+operating+systems+%C2%B7+databases" alt="Rotating introduction" />
+    </p>
+    <p align="center">
+      <a href="mailto:jonathoncskeen@gmail.com"><img src="https://img.shields.io/badge/email-open_inbox-0c1016?style=flat-square&labelColor=111822&color=34d399&logo=gmail&logoColor=f8fafc" alt="Email" /></a>
+      <img src="https://img.shields.io/badge/repo_focus-systems-111822?style=flat-square&labelColor=0c1016&color=38bdf8&logo=github&logoColor=f8fafc" alt="Focus" />
+      <img src="https://img.shields.io/badge/status-building-111822?style=flat-square&labelColor=0c1016&color=fbbf24&logo=rocket&logoColor=f8fafc" alt="Status" />
+    </p>
 
+    <table class="intro" align="center">
+      <tr>
+        <td align="center" width="33%">
+          <strong>Now</strong><br/>
+          <sub>Computer Science · Ohio University · Marietta, OH</sub><br/><br/>
+          Turning curiosity about memory, concurrency, and persistence into repos you can clone and run.
+        </td>
+        <td align="center" width="34%">
+          <strong>Trajectory</strong><br/>
+          <sub>TypeScript · C# · Python · Go · embedded · databases</sub><br/><br/>
+          Exploring the seam where hardware constraints meet software ergonomics — plus full-stack surfaces and AI-side experiments across personal, coursework, and Skevia LLC repos.
+        </td>
+        <td align="center" width="33%">
+          <strong>Signal</strong><br/>
+          <sub>Latest fixation</sub><br/><br/>
+          <strong>Skevia OS</strong> — a unified OS concept blending ideas from Qubes, macOS, and Ubuntu into something coherent enough to prototype. Shipping through <a href="https://github.com/SKEVIALLC">Skevia LLC</a>; public surface is <a href="https://github.com/SKEVIALLC/Skevia-Website">Skevia-Website</a>, with the rest of the active org stack folded under <strong>Private sandboxes</strong> below.
+        </td>
+      </tr>
+    </table>
+
+    <br/>
+
+    <p align="center">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jskeen5822&show_icons=true&hide_border=true&title_color=52d4a8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0c1016&hide_title=false&rank_icon=github" alt="GitHub stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jskeen5822&layout=compact&hide_border=true&title_color=52d4a8&text_color=e2e8f0&bg_color=0c1016&langs_count=8" alt="Top languages" />
+    </p>
+
+    <details>
+      <summary><strong>Toolbox</strong> — languages, platforms, and the usual suspects</summary>
+      <br/>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,css,cs,docker,git,github,go,html,js,linux,python,raspberrypi,ts,vscode,arduino&theme=dark&perline=8" alt="Skills" />
+      </p>
+    </details>
+
+    <br/>
+
+    <details open>
+      <summary><strong>Projects worth a stop</strong></summary>
+      <table class="projects">
+        <thead>
+          <tr><th>Project</th><th>Notes</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Ohio-University-CS/bartender-boys"><strong>bartender-boys</strong></a></td>
+            <td>Ohio University CS project (<strong>archived</strong>): AI bartender automation — TypeScript.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/SKEVIALLC/Skevia-Website"><strong>Skevia-Website</strong></a></td>
+            <td>Skevia LLC site shell and styling — CSS.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Blackhole"><strong>Blackhole</strong></a></td>
+            <td>Interactive playground for gravity wells and orbital mechanics — JavaScript.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Brainrot-Doomscroller"><strong>Brainrot Doomscroller</strong></a></td>
+            <td>Generative art riff on viral culture — creative coding with teeth — JavaScript.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/BidBuilder"><strong>BidBuilder</strong></a></td>
+            <td>Construction bidding for companies and individuals — JavaScript.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Memorymanager"><strong>Memorymanager</strong></a></td>
+            <td>Simulated dynamic memory allocation — C++.</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+
+    <br/>
+
+    <details>
+      <summary><strong>More public repos</strong> — Jskeen5822</summary>
+      <table class="projects">
+        <thead>
+          <tr><th>Project</th><th>Notes</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Personal-Website"><strong>Personal-Website</strong></a></td>
+            <td>Personal site — CSS.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/SQL-and-Aggregate-Databases"><strong>SQL-and-Aggregate-Databases</strong></a></td>
+            <td>Fetch repo data into SQL and compute aggregates — Python.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Hackers-Gauntlet"><strong>Hackers-Gauntlet</strong></a></td>
+            <td>C++ exercise set.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Tornado"><strong>Tornado</strong></a></td>
+            <td>JavaScript project.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/REST-API-Assignment"><strong>REST-API-Assignment</strong></a></td>
+            <td>Python REST API coursework.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/ML-project"><strong>ML-project</strong></a></td>
+            <td>ML automation experiments — Python.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Jskeen5822/Currencyconverter"><strong>Currencyconverter</strong></a></td>
+            <td>Convert amounts between currencies.</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+
+    <br/>
+
+    <details>
+      <summary><strong>Private sandboxes</strong> — not on the profile chart, still real</summary>
+      <p><strong>Jskeen5822:</strong> Workspace (C#), Experiments (Python), Project-Conrad (Go, MIT).</p>
+      <p><strong>SKEVIALLC:</strong> Vocari (C#), Luma (TypeScript), Skevia-App (HTML), Zephra (Python), Veks-AI (Python), Skevia-Studios (JavaScript), Perea (C), JustOne (TypeScript).</p>
+    </details>
+
+    <br/>
+
+    <p align="center">
+      <a href="mailto:jonathoncskeen@gmail.com">
+        <img src="https://img.shields.io/badge/compose-jonathoncskeen@gmail.com-0c1016?style=flat-square&labelColor=111822&logo=gmail&logoColor=f8fafc" alt="Email Jonathon" />
+      </a>
+      <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
+        <img src="https://img.shields.io/badge/LinkedIn-profile-111822?style=flat-square&labelColor=0c1016&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+      </a>
+      <a href="https://app.joinhandshake.com/profiles/mxjt9g">
+        <img src="https://img.shields.io/badge/Handshake-open-111822?style=flat-square&labelColor=0c1016&logo=handshake&logoColor=c7d2fe" alt="Handshake" />
+      </a>
+    </p>
+
+    <p align="center">
+      <img src="assets/footer.svg" alt="" width="100%" />
+    </p>
   </main>
 </body>
 </html>
