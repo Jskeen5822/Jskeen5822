@@ -1,6 +1,5 @@
 <!--
-  Profile README — telemetry / terminal-adjacent layout (no capsule-render clone).
-  Animations: local SVG (SMIL) + readme-typing-svg; stats cards optional below.
+  Profile README — telemetry layout. Theme: plum ink + fuchsia / rose accents.
 -->
 
 <p align="center">
@@ -8,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=52D4A8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=Shipping+firmware-minded+software.;Skevia+OS+%E2%80%94+isolation%2C+ergonomics%2C+one+kernel+at+a+time.;Embedded+%C2%B7+operating+systems+%C2%B7+databases" alt="Rotating introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=E879F9&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=Shipping+firmware-minded+software.;Parea+%E2%80%94+isolation%2C+ergonomics%2C+one+kernel+at+a+time.;Embedded+%C2%B7+operating+systems+%C2%B7+databases" alt="Rotating introduction" />
 </p>
 
 <p align="center">
-  <a href="mailto:jonathoncskeen@gmail.com"><img src="https://img.shields.io/badge/email-open_inbox-0c1016?style=flat-square&labelColor=111822&color=34d399&logo=gmail&logoColor=f8fafc" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/repo_focus-systems-111822?style=flat-square&labelColor=0c1016&color=38bdf8&logo=github&logoColor=f8fafc" alt="Focus" />
-  <img src="https://img.shields.io/badge/status-building-111822?style=flat-square&labelColor=0c1016&color=fbbf24&logo=rocket&logoColor=f8fafc" alt="Status" />
+  <a href="mailto:jonathoncskeen@gmail.com"><img src="https://img.shields.io/badge/email-open_inbox-100818?style=flat-square&labelColor=1c1024&color=e879f9&logo=gmail&logoColor=faf5ff" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/repo_focus-systems-2d1638?style=flat-square&labelColor=100818&color=a78bfa&logo=github&logoColor=faf5ff" alt="Focus" />
+  <img src="https://img.shields.io/badge/status-building-2d1638?style=flat-square&labelColor=100818&color=fb7185&logo=rocket&logoColor=faf5ff" alt="Status" />
 </p>
 
 <table align="center">
@@ -32,7 +31,7 @@
     <td align="center" valign="top" width="33%">
       <strong>Signal</strong><br/>
       <sub>Latest fixation</sub><br/><br/>
-      <strong>Skevia OS</strong> — a unified OS concept blending ideas from Qubes, macOS, and Ubuntu into something coherent enough to prototype. Shipping through <a href="https://github.com/SKEVIALLC">Skevia LLC</a>; public surface is <a href="https://github.com/SKEVIALLC/Skevia-Website">Skevia-Website</a>, with the rest of the active org stack folded under <strong>Private sandboxes</strong> below.
+      <strong>Parea</strong> — a unified OS concept blending ideas from Qubes, macOS, and Ubuntu into something coherent enough to prototype. Shipping through <a href="https://github.com/SKEVIALLC">Skevia LLC</a>; public surface is <a href="https://github.com/SKEVIALLC/Skevia-Website">Skevia-Website</a>, with the rest of the active org stack folded under <strong>Private sandboxes</strong> below.
     </td>
   </tr>
 </table>
@@ -40,8 +39,8 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jskeen5822&show_icons=true&hide_border=true&title_color=52d4a8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0c1016&hide_title=false&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jskeen5822&layout=compact&hide_border=true&title_color=52d4a8&text_color=e2e8f0&bg_color=0c1016&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jskeen5822&show_icons=true&hide_border=true&title_color=e879f9&icon_color=fb7185&text_color=e9d5ff&bg_color=100818&hide_title=false&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jskeen5822&layout=compact&hide_border=true&title_color=e879f9&text_color=e9d5ff&bg_color=100818&langs_count=8" alt="Top languages" />
 </p>
 
 <details>
@@ -99,7 +98,7 @@
 
 **Jskeen5822:** Workspace (C#), Experiments (Python), Project-Conrad (Go, MIT).
 
-**SKEVIALLC:** Vocari (C#), Luma (TypeScript), Skevia-App (HTML), Zephra (Python), Veks-AI (Python), Skevia-Studios (JavaScript), Perea (C), JustOne (TypeScript).
+**SKEVIALLC:** Vocari (C#), Luma (TypeScript), Skevia-App (HTML), Zephra (Python), Veks-AI (Python), Skevia-Studios (JavaScript), Parea (C), JustOne (TypeScript).
 
 </details>
 
@@ -107,16 +106,12 @@
 
 <p align="center">
   <a href="mailto:jonathoncskeen@gmail.com">
-    <img src="https://img.shields.io/badge/compose-jonathoncskeen@gmail.com-0c1016?style=flat-square&labelColor=111822&logo=gmail&logoColor=f8fafc" alt="Email Jonathon" />
+    <img src="https://img.shields.io/badge/compose-jonathoncskeen@gmail.com-100818?style=flat-square&labelColor=1c1024&logo=gmail&logoColor=faf5ff" alt="Email Jonathon" />
   </a>
   <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
-    <img src="https://img.shields.io/badge/LinkedIn-profile-111822?style=flat-square&labelColor=0c1016&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-profile-2d1638?style=flat-square&labelColor=100818&logo=linkedin&logoColor=a78bfa" alt="LinkedIn" />
   </a>
   <a href="https://app.joinhandshake.com/profiles/mxjt9g">
-    <img src="https://img.shields.io/badge/Handshake-open-111822?style=flat-square&labelColor=0c1016&logo=handshake&logoColor=c7d2fe" alt="Handshake" />
+    <img src="https://img.shields.io/badge/Handshake-open-2d1638?style=flat-square&labelColor=100818&logo=handshake&logoColor=f0abfc" alt="Handshake" />
   </a>
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" alt="" width="100%" />
 </p>
