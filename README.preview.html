@@ -7,18 +7,21 @@
   <style>
     :root {
       color-scheme: dark;
-      --bg: #08040c;
-      --panel: #100818;
-      --text: #f3e8ff;
-      --muted: #c4b5fd;
-      --border: #3d2252;
-      --link: #f0abfc;
+      --bg: #0a0614;
+      --panel: #0f172a;
+      --text: #fefce8;
+      --muted: #94a3b8;
+      --border: #334155;
+      --link: #38bdf8;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-      background: radial-gradient(ellipse at 25% 0%, #2d1638 0%, var(--bg) 55%, #040208 100%);
+      background: radial-gradient(ellipse at 18% 8%, rgba(236,72,153,0.22) 0%, transparent 42%),
+        radial-gradient(ellipse at 88% 95%, rgba(34,211,238,0.14) 0%, transparent 45%),
+        radial-gradient(ellipse at 72% 12%, rgba(163,230,53,0.1) 0%, transparent 38%),
+        linear-gradient(165deg, var(--bg) 0%, #071018 55%, #0c0418 100%);
       color: var(--text);
       line-height: 1.6;
     }
@@ -37,9 +40,9 @@
     table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95rem; }
     table.intro td { border: 1px solid var(--border); padding: 16px 12px; vertical-align: top; }
     table.projects th, table.projects td { border: 1px solid var(--border); padding: 10px 12px; }
-    table.projects th { text-align: left; background: #1c1024; color: #e9d5ff; }
+    table.projects th { text-align: left; background: #1e293b; color: #fde68a; }
     sub { color: var(--muted); font-size: 0.8rem; }
-    details { margin: 16px 0; padding: 12px 16px; border: 1px solid var(--border); border-radius: 10px; background: #120818; }
+    details { margin: 16px 0; padding: 12px 16px; border: 1px solid var(--border); border-radius: 10px; background: #0f172a; }
     summary { cursor: pointer; font-weight: 600; }
   </style>
 </head>
@@ -49,12 +52,12 @@
       <img src="assets/banner.svg" alt="Jonathon Skeen — CS @ Ohio University, Marietta OH, low-level systems" width="100%" />
     </p>
     <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=E879F9&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=Shipping+firmware-minded+software.;Parea+%E2%80%94+isolation%2C+ergonomics%2C+one+kernel+at+a+time.;Embedded+%C2%B7+operating+systems+%C2%B7+databases" alt="Rotating introduction" />
+      <img src="assets/tagline.svg" alt="Rotating taglines about projects and focus areas" width="100%" />
     </p>
     <p align="center">
-      <a href="mailto:jonathoncskeen@gmail.com"><img src="https://img.shields.io/badge/email-open_inbox-100818?style=flat-square&labelColor=1c1024&color=e879f9&logo=gmail&logoColor=faf5ff" alt="Email" /></a>
-      <img src="https://img.shields.io/badge/repo_focus-systems-2d1638?style=flat-square&labelColor=100818&color=a78bfa&logo=github&logoColor=faf5ff" alt="Focus" />
-      <img src="https://img.shields.io/badge/status-building-2d1638?style=flat-square&labelColor=100818&color=fb7185&logo=rocket&logoColor=faf5ff" alt="Status" />
+      <a href="mailto:jonathoncskeen@gmail.com"><img src="https://img.shields.io/badge/email-open_inbox-0f172a?style=flat-square&labelColor=1e293b&color=06b6d4&logo=gmail&logoColor=f0fdfa" alt="Email" /></a>
+      <img src="https://img.shields.io/badge/repo_focus-systems-1e1b4b?style=flat-square&labelColor=0f172a&color=a855f7&logo=github&logoColor=faf5ff" alt="Focus" />
+      <img src="https://img.shields.io/badge/status-building-422006?style=flat-square&labelColor=0f172a&color=f97316&logo=rocket&logoColor=fff7ed" alt="Status" />
     </p>
 
     <table class="intro" align="center">
@@ -72,7 +75,7 @@
         <td align="center" width="33%">
           <strong>Signal</strong><br/>
           <sub>Latest fixation</sub><br/><br/>
-          <strong>Parea</strong> — a unified OS concept blending ideas from Qubes, macOS, and Ubuntu into something coherent enough to prototype. Shipping through <a href="https://github.com/SKEVIALLC">Skevia LLC</a>; public surface is <a href="https://github.com/SKEVIALLC/Skevia-Website">Skevia-Website</a>, with the rest of the active org stack folded under <strong>Private sandboxes</strong> below.
+          <strong>Perea</strong> — a unified OS concept blending ideas from Qubes, macOS, and Ubuntu into something coherent enough to prototype. Shipping through <a href="https://github.com/SKEVIALLC">Skevia LLC</a>; public surface is <a href="https://github.com/SKEVIALLC/Skevia-Website">Skevia-Website</a>, with the rest of the active org stack folded under <strong>Private sandboxes</strong> below.
         </td>
       </tr>
     </table>
@@ -80,8 +83,8 @@
     <br/>
 
     <p align="center">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jskeen5822&show_icons=true&hide_border=true&title_color=e879f9&icon_color=fb7185&text_color=e9d5ff&bg_color=100818&hide_title=false&rank_icon=github" alt="GitHub stats" />
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jskeen5822&layout=compact&hide_border=true&title_color=e879f9&text_color=e9d5ff&bg_color=100818&langs_count=8" alt="Top languages" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jskeen5822&show_icons=true&hide_border=true&title_color=f97316&icon_color=22d3ee&text_color=fde68a&bg_color=0f172a&hide_title=false&rank_icon=github" alt="GitHub stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jskeen5822&layout=compact&hide_border=true&title_color=a78bfa&text_color=fbcfe8&bg_color=0f172a&langs_count=8" alt="Top languages" />
     </p>
 
     <details>
@@ -118,12 +121,12 @@
             <td>Generative art riff on viral culture — creative coding with teeth — JavaScript.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Jskeen5822/BidBuilder"><strong>BidBuilder</strong></a></td>
-            <td>Construction bidding for companies and individuals — JavaScript.</td>
+            <td><a href="https://github.com/SKEVIALLC/Vocari"><strong>Vocari</strong></a></td>
+            <td>Skevia LLC — C#.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Jskeen5822/Memorymanager"><strong>Memorymanager</strong></a></td>
-            <td>Simulated dynamic memory allocation — C++.</td>
+            <td><a href="https://github.com/SKEVIALLC/Luma"><strong>Luma</strong></a></td>
+            <td>Skevia LLC — TypeScript.</td>
           </tr>
         </tbody>
       </table>
@@ -175,20 +178,20 @@
     <details>
       <summary><strong>Private sandboxes</strong> — not on the profile chart, still real</summary>
       <p><strong>Jskeen5822:</strong> Workspace (C#), Experiments (Python), Project-Conrad (Go, MIT).</p>
-      <p><strong>SKEVIALLC:</strong> Vocari (C#), Luma (TypeScript), Skevia-App (HTML), Zephra (Python), Veks-AI (Python), Skevia-Studios (JavaScript), Parea (C), JustOne (TypeScript).</p>
+      <p><strong>SKEVIALLC:</strong> Vocari (C#), Luma (TypeScript), Skevia-App (HTML), Zephra (Python), Veks-AI (Python), Skevia-Studios (JavaScript), Perea (C), JustOne (TypeScript).</p>
     </details>
 
     <br/>
 
     <p align="center">
       <a href="mailto:jonathoncskeen@gmail.com">
-        <img src="https://img.shields.io/badge/compose-jonathoncskeen@gmail.com-100818?style=flat-square&labelColor=1c1024&logo=gmail&logoColor=faf5ff" alt="Email Jonathon" />
+        <img src="https://img.shields.io/badge/compose-jonathoncskeen@gmail.com-14532d?style=flat-square&labelColor=0f172a&logo=gmail&logoColor=f0fdf4" alt="Email Jonathon" />
       </a>
       <a href="https://www.linkedin.com/in/jonathon-skeen-92442034a/">
-        <img src="https://img.shields.io/badge/LinkedIn-profile-2d1638?style=flat-square&labelColor=100818&logo=linkedin&logoColor=a78bfa" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-profile-1e3a5f?style=flat-square&labelColor=0f172a&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
       </a>
       <a href="https://app.joinhandshake.com/profiles/mxjt9g">
-        <img src="https://img.shields.io/badge/Handshake-open-2d1638?style=flat-square&labelColor=100818&logo=handshake&logoColor=f0abfc" alt="Handshake" />
+        <img src="https://img.shields.io/badge/Handshake-open-701a75?style=flat-square&labelColor=0f172a&logo=handshake&logoColor=f5d0fe" alt="Handshake" />
       </a>
     </p>
   </main>
